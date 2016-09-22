@@ -1,0 +1,82 @@
+{
+  "id": 1108702875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"15.962649,45.792643,15.962649,45.792643",
+    "geom:latitude":45.792643,
+    "geom:longitude":15.962649,
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Odranska 1",
+    "sg:city":"Zagreb",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"100000",
+    "sg:tags":[
+        "microblogging",
+        "cloud",
+        "hosting",
+        "white-label",
+        "seedcamp",
+        "seedcamp-2009"
+    ],
+    "sg:website":"http://www.shoutem.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929243,
+        102191581,
+        85633229,
+        101751659,
+        85684811
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7ZgQIVzOTxzTl5PgeZlP1Z_45.792643_15.962649@1308163241"
+    },
+    "wof:country":"HR",
+    "wof:created":1474570888,
+    "wof:geomhash":"3fd920a60f5bd2f3cec54e1fd97ca4db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":101751659,
+            "neighbourhood_id":85929243,
+            "region_id":85684811,
+            "venue_id":1108702875
+        }
+    ],
+    "wof:id":1108702875,
+    "wof:lastmodified":1474570888,
+    "wof:name":"ShoutEm",
+    "wof:parent_id":85929243,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "microblogging",
+        "cloud",
+        "hosting",
+        "white-label",
+        "seedcamp",
+        "seedcamp-2009"
+    ]
+},
+  "bbox": [
+    15.962649,
+    45.792643,
+    15.962649,
+    45.792643
+],
+  "geometry": {"coordinates":[15.962649,45.792643],"type":"Point"}
+}

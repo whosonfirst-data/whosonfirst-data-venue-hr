@@ -1,0 +1,77 @@
+{
+  "id": 1108702871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"16.5019494,43.5052717,16.5019494,43.5052717",
+    "geom:latitude":43.505272,
+    "geom:longitude":16.501949,
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Put orisca 9a",
+    "sg:city":"Split",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"21000",
+    "sg:tags":[
+        "vertical",
+        "search-engine",
+        "property",
+        "real-estate",
+        "nekretnine",
+        "nepremicnine",
+        "immobili",
+        "case",
+        "appartamenti",
+        "immobilien",
+        "reality"
+    ],
+    "sg:website":"http://gohome.hr",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4FgA3HDE0zThTlUZLtr6VV_43.505272_16.501949@1308163240"
+    },
+    "wof:country":"HR",
+    "wof:created":1474570888,
+    "wof:geomhash":"cb5c03ab7c284418133700621deb03d2",
+    "wof:hierarchy":[],
+    "wof:id":1108702871,
+    "wof:lastmodified":1474570888,
+    "wof:name":"GoHome",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "vertical",
+        "search-engine",
+        "property",
+        "real-estate",
+        "nekretnine",
+        "nepremicnine",
+        "immobili",
+        "case",
+        "appartamenti",
+        "immobilien",
+        "reality"
+    ]
+},
+  "bbox": [
+    16.5019494,
+    43.5052717,
+    16.5019494,
+    43.5052717
+],
+  "geometry": {"coordinates":[16.5019494,43.5052717],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1108702867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"16.4389264,43.5141923,16.4389264,43.5141923",
+    "geom:latitude":43.514192,
+    "geom:longitude":16.438926,
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Gunduli\u0107eva 26A",
+    "sg:city":"Split",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"21000",
+    "sg:tags":[
+        "web",
+        "cms",
+        "decillion",
+        "print",
+        "graphic",
+        "desing",
+        "marketing",
+        "site"
+    ],
+    "sg:website":"http://www.centillion.hr",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Lbxi6hjCf9zjPwrda6Cyy_43.514192_16.438926@1308163240"
+    },
+    "wof:country":"HR",
+    "wof:created":1474570888,
+    "wof:geomhash":"3ce25a7f8924ba4bf2f0e4614cfb873a",
+    "wof:hierarchy":[],
+    "wof:id":1108702867,
+    "wof:lastmodified":1474570888,
+    "wof:name":"Centillion",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "web",
+        "cms",
+        "decillion",
+        "print",
+        "graphic",
+        "desing",
+        "marketing",
+        "site"
+    ]
+},
+  "bbox": [
+    16.4389264,
+    43.5141923,
+    16.4389264,
+    43.5141923
+],
+  "geometry": {"coordinates":[16.4389264,43.5141923],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 1108702865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"15.9994703,45.8084488,15.9994703,45.8084488",
+    "geom:latitude":45.808449,
+    "geom:longitude":15.99947,
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Zavrtnica 17 Objekt 8",
+    "sg:city":"Zagreb",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"10000",
+    "sg:tags":[
+        "software-development",
+        "croatia",
+        "java",
+        "-net",
+        "perl"
+    ],
+    "sg:website":"http://www.calyx.hr",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85901503,
+        102191581,
+        85633229,
+        101751659,
+        85684811
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1UyBQBPfeklM0WU8VIAqFP_45.808449_15.999470@1308163240"
+    },
+    "wof:country":"HR",
+    "wof:created":1474570888,
+    "wof:geomhash":"7831f5d4ecf8a0babaefc60c42c096d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":101751659,
+            "neighbourhood_id":85901503,
+            "region_id":85684811,
+            "venue_id":1108702865
+        }
+    ],
+    "wof:id":1108702865,
+    "wof:lastmodified":1474570888,
+    "wof:name":"Calyx",
+    "wof:parent_id":85901503,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "software-development",
+        "croatia",
+        "java",
+        "-net",
+        "perl"
+    ]
+},
+  "bbox": [
+    15.9994703,
+    45.8084488,
+    15.9994703,
+    45.8084488
+],
+  "geometry": {"coordinates":[15.9994703,45.8084488],"type":"Point"}
+}

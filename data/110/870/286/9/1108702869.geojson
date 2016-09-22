@@ -1,0 +1,77 @@
+{
+  "id": 1108702869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"15.8012365,45.816128,15.8012365,45.816128",
+    "geom:latitude":45.816128,
+    "geom:longitude":15.801236,
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Selska 92",
+    "sg:city":"Zagreb",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"10000",
+    "sg:tags":[
+        "vertical",
+        "search-engine",
+        "property",
+        "real-estate",
+        "nekretnine",
+        "nepremicnine",
+        "immobili",
+        "case",
+        "appartamenti",
+        "immobilien",
+        "reality"
+    ],
+    "sg:website":"http://gohome.hr",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1GxZFsWr9qycd4LHcmUfgJ_45.816128_15.801236@1308163240"
+    },
+    "wof:country":"HR",
+    "wof:created":1474570888,
+    "wof:geomhash":"8f447cb356e1c1df1ce3fb1b525fe27e",
+    "wof:hierarchy":[],
+    "wof:id":1108702869,
+    "wof:lastmodified":1474570888,
+    "wof:name":"GoHome",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "vertical",
+        "search-engine",
+        "property",
+        "real-estate",
+        "nekretnine",
+        "nepremicnine",
+        "immobili",
+        "case",
+        "appartamenti",
+        "immobilien",
+        "reality"
+    ]
+},
+  "bbox": [
+    15.8012365,
+    45.816128,
+    15.8012365,
+    45.816128
+],
+  "geometry": {"coordinates":[15.8012365,45.816128],"type":"Point"}
+}

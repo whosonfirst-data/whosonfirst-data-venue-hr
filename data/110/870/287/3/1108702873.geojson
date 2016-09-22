@@ -1,0 +1,67 @@
+{
+  "id": 1108702873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"16.003871,45.8708777,16.003871,45.8708777",
+    "geom:latitude":45.870878,
+    "geom:longitude":16.003871,
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Markusevecka cesta 115",
+    "sg:city":"Zagreb",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"10000",
+    "sg:tags":[
+        "hosting",
+        "design",
+        "web",
+        "internet",
+        "open-source",
+        "tmkcms"
+    ],
+    "sg:website":"http://www.nosco.hr",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2AtjnORYQMFVAmiIa5tffp_45.870878_16.003871@1308163241"
+    },
+    "wof:country":"HR",
+    "wof:created":1474570888,
+    "wof:geomhash":"7e49d4ebc56c02bc63297df433ae423c",
+    "wof:hierarchy":[],
+    "wof:id":1108702873,
+    "wof:lastmodified":1474570888,
+    "wof:name":"Nosco",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hosting",
+        "design",
+        "web",
+        "internet",
+        "open-source",
+        "tmkcms"
+    ]
+},
+  "bbox": [
+    16.003871,
+    45.8708777,
+    16.003871,
+    45.8708777
+],
+  "geometry": {"coordinates":[16.003871,45.8708777],"type":"Point"}
+}
